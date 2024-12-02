@@ -2,20 +2,18 @@
 MARKDOWN_20241202
 
 ### 4. 코드 블록
-public class Hello {
-	
-	/**
-	 * 	Hello main 메서드!
-	 */
-	
+**인라인 코드**
+`System.out.println("Hello, World!");`
+
+<b>코드 블록</b>
+```
+public class Hello {	
 	public static void main(String []args){
 		//console : "Hello, world!" 메세지 출력
-		
 		System.out.println("Hello, World!");
-	}
-	
+	}	
 }
-
+```
 
 ### 3. 인용 상자
 >여기에 인용할 내용을 넣으면 됩니다.  
