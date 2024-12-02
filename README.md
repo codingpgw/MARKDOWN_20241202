@@ -17,7 +17,7 @@ MARKDOWN_20241202
 ### 8. 이미지
 `이미지는 ![이미지 텍스트](이미지 URL)`  
 ![balsa](https://github.com/codingpgw/MARKDOWN_20241202/blob/main/balsa.JPG)
-
+<img src="https://github.com/codingpgw/MARKDOWN_20241202/blob/main/balsa.JPG">
 
 ### 7. 강조(Emphasis)
 - 굵게(Bold) : **텍스트** 또는 __text__
